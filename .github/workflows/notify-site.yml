@@ -1,0 +1,17 @@
+name: Notify site to rebuild
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger site rebuild
+        run: |
+          curl -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${{ secrets.SITE_DISPATCH_TOKEN }}" \
+            https://api.github.com/repos/chigyusubs/chigyusubs.github.io/dispatches \
+            -d '{"event_type":"subtitles-updated"}'
