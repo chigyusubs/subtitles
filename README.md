@@ -38,6 +38,13 @@ The site includes a [watch page](https://chigyusubs.github.io/watch.html) where 
 | S02E06 | [s02e06.en.vtt](the-great-escape/s02/s02e06.en.vtt) |
 | S02E07 | [s02e07.en.vtt](the-great-escape/s02/s02e07.en.vtt) |
 
+### The Great Escape (大脱出) — Season 3
+
+| Episode | File |
+|---|---|
+| S03E01 | [s03e01.en.vtt](the-great-escape/s03/s03e01.en.vtt) |
+| S03E02 | [s03e02.en.vtt](the-great-escape/s03/s03e02.en.vtt) |
+
 ### Killah Kuts (キラーカッツ) — Season 1
 
 | Episode | File |
