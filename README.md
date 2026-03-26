@@ -46,6 +46,9 @@ The site includes a [watch page](https://chigyusubs.github.io/watch.html) where 
 | S03E02 | [s03e02.en.vtt](the-great-escape/s03/s03e02.en.vtt) |
 | S03E03 | [s03e03.en.vtt](the-great-escape/s03/s03e03.en.vtt) |
 | S03E04 | [s03e04.en.vtt](the-great-escape/s03/s03e04.en.vtt) |
+| S03E05 | [s03e05.en.vtt](the-great-escape/s03/s03e05.en.vtt) |
+| S03E06 | [s03e06.en.vtt](the-great-escape/s03/s03e06.en.vtt) |
+| S03E07 | [s03e07.en.vtt](the-great-escape/s03/s03e07.en.vtt) |
 
 ### Killah Kuts (キラーカッツ) — Season 1
 
