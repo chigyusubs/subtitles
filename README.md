@@ -80,6 +80,7 @@ Subs timed to free YouTube uploads. You can [watch directly on the site](https:/
 
 | Show | Episode | File | Video |
 |---|---|---|---|
+| ZONE 05 | E01 | [zone05-ep1.en.vtt](youtube/zone05-ep1.en.vtt) | [YouTube](https://www.youtube.com/watch?v=gpTO1AUm80M) |
 | Killah Kuts | S01E02 | [killah-kuts-s01e02.en.vtt](youtube/killah-kuts-s01e02.en.vtt) | [YouTube](https://www.youtube.com/watch?v=VAatQB0sNw0) |
 | The Great Escape | S03E01 | [the-great-escape-s03e01.en.vtt](youtube/the-great-escape-s03e01.en.vtt) | [YouTube](https://www.youtube.com/watch?v=gGDj3MsVqRc) |
 
